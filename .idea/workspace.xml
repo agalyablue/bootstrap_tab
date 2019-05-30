@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c1349e-c2a7-4f60-ab5a-80b5bdf4a720" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="748">
+              <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -54,6 +63,7 @@
         <option value="$PROJECT_DIR$/ex1.html" />
         <option value="$PROJECT_DIR$/ex2.html" />
         <option value="$PROJECT_DIR$/ex3.html" />
+        <option value="$PROJECT_DIR$/ex4.html" />
       </list>
     </option>
   </component>
@@ -105,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ex3.html">
+  <component name="RunManager" selected="JavaScript Debug.ex4.html">
     <configuration name="ex1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_tab/ex1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -115,8 +125,12 @@
     <configuration name="ex3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_tab/ex3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="ex4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_tab/ex4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ex4.html" />
         <item itemvalue="JavaScript Debug.ex3.html" />
         <item itemvalue="JavaScript Debug.ex2.html" />
         <item itemvalue="JavaScript Debug.ex1.html" />
@@ -133,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559230656761</updated>
-      <workItem from="1559230665425" duration="2795000" />
+      <workItem from="1559230665425" duration="3490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2795000" />
+    <option name="totallyTimeSpent" value="3490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="965" y="23" width="890" height="977" extended-state="0" />
@@ -202,8 +216,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="748">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
         </state>
       </provider>
     </entry>
